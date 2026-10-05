@@ -8,6 +8,6 @@ Open a topic to read just the part you need. The site also includes commands you
 
 ## Credits
 
-Sol’s MMNM Addon is created and owned by **Solmochi**.
+[Sol’s MMNM Addon](https://www.curseforge.com/minecraft/mc-mods/sols-mmnm-addon-abilityprotection-rework-qol) is created and owned by **Solmochi**.
 
-**Mine Mine no Mi**, the base mod, is created by **Wynd and his team**.
+[Mine Mine no Mi](https://www.curseforge.com/minecraft/mc-mods/mine-mine-no-mi), the base mod, is created by **Wynd and his team**.
