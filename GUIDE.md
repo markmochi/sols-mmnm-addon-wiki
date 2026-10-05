@@ -1,6 +1,6 @@
 # Sol's MMNM Addon: how to use it
 
-For **1.16.5 / MMNM 0.10.11 / addon v0.27** and **1.20.1 / MMNM 0.11.5 / addon v0.28**. Commands apply to both unless a version is marked.
+For **1.16.5 / MMNM 0.10.11+ / addon v0.27+** and **1.20.1 / MMNM 0.11.5+ / addon v0.28+**. Commands apply to both unless a version is marked.
 
 Base MMNM already has protected sites, damage rules, and automatic block restoration. This guide covers the addon's changes to those tools, the settings it adds, and how to use them. You can start with one area and come back for spawning, music, or snapshots later.
 
